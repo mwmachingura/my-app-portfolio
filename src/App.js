@@ -25,17 +25,17 @@ class App extends React.Component {
             ],
             home: {
                 title: 'Professionalism',
-                subtitle: 'Projects that make a difference',
+                subTitle: 'Projects that make a difference',
                 text: 'Hover for a preview'
             },
             about: {
                 title: 'About Mutsa',
-                subtitle: 'Projects that make a difference',
+                subTitle: 'Projects that make a difference',
                 text: 'Hover for a preview'
             },
             contact: {
                 title: "Let's Talk",
-                subtitle: 'Projects that make a difference',
+                subTitle: 'Projects that make a difference',
                 text: 'Hover for a preview'
             }
         }
