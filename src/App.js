@@ -30,13 +30,13 @@ class App extends React.Component {
             },
             about: {
                 title: 'About Mutsa',
-                subTitle: 'Projects that make a difference',
-                text: 'Hover for a preview'
+                subTitle: 'Myself, Me and I',
+                text: 'Welcome to a crash course in all things Mutsa'
             },
             contact: {
                 title: "Let's Talk",
-                subTitle: 'Projects that make a difference',
-                text: 'Hover for a preview'
+                subTitle: 'Did you love my work????',
+                text: 'Fill in below and I will make sure we will be in contact. Lets become a community, workmates and compatriates'
             }
         }
     }
